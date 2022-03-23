@@ -15,9 +15,13 @@ Your task is to help Pandora in facing the perils of her mission. Choose careful
 ## Challenge stats
 
 Max time frame: 4 hours
+
 Participating teams: 2820
+
 Max points: 38.043.878
+
 Our placement: 306
+
 Our points total: 13.961.018 (15.046.893)
 
 ## Team Members
