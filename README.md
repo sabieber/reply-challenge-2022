@@ -14,6 +14,7 @@ Your task is to help Pandora in facing the perils of her mission. Choose careful
 
 ## Challenge stats
 
+Max time frame: 4 hours
 Participating teams: 2820
 Max points: 38.043.878
 Our placement: 306
@@ -29,4 +30,6 @@ Our points total: 13.961.018 (15.046.893)
 - Find result viewer sooner to more easily see where solution falls short / could be optimized
 - Take the benefit of waiting rounds into account instead of picking an enemy every round
 - Include a score calculation earlier so intermediate solutions are only uploaded when they are improving the score
+- Maintaining version control / commits is not really feasible for such a short hackathon
+- IntelliJ "Code With Me" feature works great
 - Was a lot of fun :)
